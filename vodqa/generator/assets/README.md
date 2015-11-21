@@ -1,4 +1,4 @@
-# VodQA Gurgaon
+# VodQA Singapore
 
 'vodQA' -​ stands for Value Oriented Discussion for Quality Analysts. It is​ a forum where testing enthusiasts get together, network and collaborate on the latest developments in the world of software testing​. It offers a unique ​platform for our peers in the software testing industry to strengthen the QA community by sharing and learning new practices and ideas.​ It offers a​n​ opportunity to interact with people who are equally passionate about software testing and continuously strive to better the art.​ ​
 
